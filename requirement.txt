@@ -1,0 +1,25 @@
+Libraries required to be installed using Pip Command:
+
+1.Json
+
+2.request
+
+3.Speech recognition
+
+4.Pyttsx3
+
+5.Wikipedia
+
+6.Ecapture
+
+7.time
+
+8.Wolfram Alpha
+
+In-Built libraries required to be imported: 1.os
+
+2.datetime
+
+3.web browser
+
+4.subprocess
